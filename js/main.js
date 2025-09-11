@@ -6,4 +6,5 @@ item.style.color= "green";
 let btn = document.queryselector("button");
 btn.onclick = ()=>{
 btn.style.color= "blue";
+btn.style.backgroundColor ="green";
 }
